@@ -1,0 +1,120 @@
+div:nth-child(15) {
+  padding: 150px;
+  z-index: -15;
+  top: -150px;
+  left: -150px;
+}
+div:nth-child(14) {
+  padding: 140px;
+  z-index: -14;
+  top: -140px;
+  left: -140px;
+}
+div:nth-child(13) {
+  padding: 130px;
+  z-index: -13;
+  top: -130px;
+  left: -130px;
+}
+div:nth-child(12) {
+  padding: 120px;
+  z-index: -12;
+  top: -120px;
+  left: -120px;
+}
+div:nth-child(11) {
+  padding: 110px;
+  z-index: -11;
+  top: -110px;
+  left: -110px;
+}
+div:nth-child(10) {
+  padding: 100px;
+  z-index: -10;
+  top: -100px;
+  left: -100px;
+}
+div:nth-child(9) {
+  padding: 90px;
+  z-index: -9;
+  top: -90px;
+  left: -90px;
+}
+div:nth-child(8) {
+  padding: 80px;
+  z-index: -8;
+  top: -80px;
+  left: -80px;
+}
+div:nth-child(7) {
+  padding: 70px;
+  z-index: -7;
+  top: -70px;
+  left: -70px;
+}
+div:nth-child(6) {
+  padding: 60px;
+  z-index: -6;
+  top: -60px;
+  left: -60px;
+}
+div:nth-child(5) {
+  padding: 50px;
+  z-index: -5;
+  top: -50px;
+  left: -50px;
+}
+div:nth-child(4) {
+  padding: 40px;
+  z-index: -4;
+  top: -40px;
+  left: -40px;
+}
+div:nth-child(3) {
+  padding: 30px;
+  z-index: -3;
+  top: -30px;
+  left: -30px;
+}
+div:nth-child(2) {
+  padding: 20px;
+  z-index: -2;
+  top: -20px;
+  left: -20px;
+}
+div:nth-child(1) {
+  padding: 10px;
+  z-index: -1;
+  top: -10px;
+  left: -10px;
+}
+body {
+  background: black;
+  margin: 0;
+  padding: 0;
+}
+section {
+  display: block;
+  position: absolute;
+  height: 300px;
+  width: 300px;
+  top: 50%;
+  left: 50%;
+}
+div {
+  position: absolute;
+  border-radius: 50%;
+  -webkit-animation: magic 16s linear infinite alternate;
+  -moz-animation: magic 16s linear infinite alternate;
+  -o-animation: magic 16s linear infinite alternate;
+  animation: magic 16s linear infinite alternate;
+  background: linear-gradient(to top, #ffffff, #000000) 0 0;
+  overflow: hidden;
+}
+lesshat-selector {
+  -lh-property: 0; } 
+@-webkit-keyframes magic{ 0%{ -webkit-transform: rotate(0deg)} 100%{background: linear-gradient(to top, #FFFFFF, #000000) 0 600px; -webkit-transform: rotate(720deg);}}
+@-moz-keyframes magic{ 0%{ -moz-transform: rotate(0deg)} 100%{background: linear-gradient(to top, #FFFFFF, #000000) 0 600px; -moz-transform: rotate(720deg);}}
+@-o-keyframes magic{ 0%{ -o-transform: rotate(0deg)} 100%{background: linear-gradient(to top, #FFFFFF, #000000) 0 600px; -o-transform: rotate(720deg);}}
+@keyframes magic{ 0%{-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-ms-transform: rotate(0deg);transform: rotate(0deg);} 100%{background: linear-gradient(to top, #FFFFFF, #000000) 0 600px;-webkit-transform: rotate(720deg);-moz-transform: rotate(720deg);-ms-transform: rotate(720deg);transform: rotate(720deg);};
+}

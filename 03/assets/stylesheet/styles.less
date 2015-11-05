@@ -1,0 +1,37 @@
+@import "lesshat.less";
+
+@iterations: 15;
+.mixin-loop (@i) when (@i > 0) {
+  div:nth-child(@{i}) {
+    padding: (@i * 10px);
+    left: (@i * -10px);
+  }
+  section:nth-child(@{i}){
+    .transform(rotate((@i * 60deg)));
+  }
+  .mixin-loop(@i - 1);
+}
+.mixin-loop(@iterations);
+
+body {
+  background: #444054;
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  padding: 0;
+}
+
+
+div {
+  border: 1px solid #DB8A74;
+  position: absolute;
+  border-radius: 50%;
+  .animation(power 1.8s ease infinite);
+}
+
+.keyframes(~'power, 0%{ border-radius: 50% 50% 50% 50%;} 20%{ border-radius: 100% 50% 50% 50%;} 40%{ border-radius: 50% 100% 50% 50%;} 60%{ border-radius: 50% 50% 100% 50%;} 80%{ border-radius: 50% 50% 50% 100%; transform: rotate(0deg);} 100%{ border-radius: 50% 50% 50% 50%; transform: rotate(60deg);} ');

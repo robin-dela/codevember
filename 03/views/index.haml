@@ -1,0 +1,23 @@
+%html
+	= Haml::Engine.new(File.read(File.expand_path File.dirname(__FILE__) + '/partials/header.haml')).render
+	%body
+		#container
+			%section.one
+				- (1...10).each do
+					%div
+			%section.two
+				- (1...10).each do
+					%div
+			%section.three
+				- (1...10).each do
+					%div
+			%section.four
+				- (1...10).each do
+					%div
+			%section.five
+				- (1...10).each do
+					%div
+			%section.six
+				- (1...10).each do
+					%div
+		= Haml::Engine.new(File.read(File.expand_path File.dirname(__FILE__) + '/partials/javascript.haml')).render

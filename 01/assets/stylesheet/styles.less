@@ -1,0 +1,36 @@
+@import "lesshat.less";
+
+@iterations: 15;
+.mixin-loop (@i) when (@i > 0) {
+  div:nth-child(@{i}) {
+    padding: (@i * 10px);
+    z-index: -@i;
+    top: (@i / -0.1px);
+    left: (@i / -0.1px);
+  }
+  .mixin-loop(@i - 1);
+}
+.mixin-loop(@iterations);
+
+body {
+  background: black;
+  margin: 0;
+  padding: 0;
+}
+section {
+    display: block;
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    top: 50%;
+    left: 50%;
+}
+div {
+  position: absolute;
+  border-radius: 50%;
+  .animation(magic 16s linear infinite alternate);
+  background: linear-gradient(to top, #FFFFFF, #000000) 0 0;
+  overflow: hidden;
+}
+
+.keyframes(~'magic, 0%{ transform: rotate(0deg)} 100%{background: linear-gradient(to top, #FFFFFF, #000000) 0 600px; transform: rotate(720deg);}');

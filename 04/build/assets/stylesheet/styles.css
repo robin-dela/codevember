@@ -1,0 +1,1522 @@
+div:nth-child(100) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 10s;
+  -moz-animation-delay: 10s;
+  -o-animation-delay: 10s;
+  animation-delay: 10s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 200px;
+  top: -200px;
+  left: -200px;
+}
+div:nth-child(99) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 9.9s;
+  -moz-animation-delay: 9.9s;
+  -o-animation-delay: 9.9s;
+  animation-delay: 9.9s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 198px;
+  top: -198px;
+  left: -198px;
+}
+div:nth-child(98) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 9.8s;
+  -moz-animation-delay: 9.8s;
+  -o-animation-delay: 9.8s;
+  animation-delay: 9.8s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 196px;
+  top: -196px;
+  left: -196px;
+}
+div:nth-child(97) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 9.700000000000001s;
+  -moz-animation-delay: 9.700000000000001s;
+  -o-animation-delay: 9.700000000000001s;
+  animation-delay: 9.700000000000001s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 194px;
+  top: -194px;
+  left: -194px;
+}
+div:nth-child(96) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 9.600000000000001s;
+  -moz-animation-delay: 9.600000000000001s;
+  -o-animation-delay: 9.600000000000001s;
+  animation-delay: 9.600000000000001s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 192px;
+  top: -192px;
+  left: -192px;
+}
+div:nth-child(95) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 9.5s;
+  -moz-animation-delay: 9.5s;
+  -o-animation-delay: 9.5s;
+  animation-delay: 9.5s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 190px;
+  top: -190px;
+  left: -190px;
+}
+div:nth-child(94) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 9.4s;
+  -moz-animation-delay: 9.4s;
+  -o-animation-delay: 9.4s;
+  animation-delay: 9.4s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 188px;
+  top: -188px;
+  left: -188px;
+}
+div:nth-child(93) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 9.3s;
+  -moz-animation-delay: 9.3s;
+  -o-animation-delay: 9.3s;
+  animation-delay: 9.3s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 186px;
+  top: -186px;
+  left: -186px;
+}
+div:nth-child(92) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 9.200000000000001s;
+  -moz-animation-delay: 9.200000000000001s;
+  -o-animation-delay: 9.200000000000001s;
+  animation-delay: 9.200000000000001s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 184px;
+  top: -184px;
+  left: -184px;
+}
+div:nth-child(91) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 9.1s;
+  -moz-animation-delay: 9.1s;
+  -o-animation-delay: 9.1s;
+  animation-delay: 9.1s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 182px;
+  top: -182px;
+  left: -182px;
+}
+div:nth-child(90) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 9s;
+  -moz-animation-delay: 9s;
+  -o-animation-delay: 9s;
+  animation-delay: 9s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 180px;
+  top: -180px;
+  left: -180px;
+}
+div:nth-child(89) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 8.9s;
+  -moz-animation-delay: 8.9s;
+  -o-animation-delay: 8.9s;
+  animation-delay: 8.9s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 178px;
+  top: -178px;
+  left: -178px;
+}
+div:nth-child(88) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 8.8s;
+  -moz-animation-delay: 8.8s;
+  -o-animation-delay: 8.8s;
+  animation-delay: 8.8s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 176px;
+  top: -176px;
+  left: -176px;
+}
+div:nth-child(87) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 8.700000000000001s;
+  -moz-animation-delay: 8.700000000000001s;
+  -o-animation-delay: 8.700000000000001s;
+  animation-delay: 8.700000000000001s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 174px;
+  top: -174px;
+  left: -174px;
+}
+div:nth-child(86) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 8.6s;
+  -moz-animation-delay: 8.6s;
+  -o-animation-delay: 8.6s;
+  animation-delay: 8.6s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 172px;
+  top: -172px;
+  left: -172px;
+}
+div:nth-child(85) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 8.5s;
+  -moz-animation-delay: 8.5s;
+  -o-animation-delay: 8.5s;
+  animation-delay: 8.5s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 170px;
+  top: -170px;
+  left: -170px;
+}
+div:nth-child(84) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 8.4s;
+  -moz-animation-delay: 8.4s;
+  -o-animation-delay: 8.4s;
+  animation-delay: 8.4s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 168px;
+  top: -168px;
+  left: -168px;
+}
+div:nth-child(83) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 8.3s;
+  -moz-animation-delay: 8.3s;
+  -o-animation-delay: 8.3s;
+  animation-delay: 8.3s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 166px;
+  top: -166px;
+  left: -166px;
+}
+div:nth-child(82) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 8.200000000000001s;
+  -moz-animation-delay: 8.200000000000001s;
+  -o-animation-delay: 8.200000000000001s;
+  animation-delay: 8.200000000000001s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 164px;
+  top: -164px;
+  left: -164px;
+}
+div:nth-child(81) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 8.1s;
+  -moz-animation-delay: 8.1s;
+  -o-animation-delay: 8.1s;
+  animation-delay: 8.1s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 162px;
+  top: -162px;
+  left: -162px;
+}
+div:nth-child(80) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 8s;
+  -moz-animation-delay: 8s;
+  -o-animation-delay: 8s;
+  animation-delay: 8s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 160px;
+  top: -160px;
+  left: -160px;
+}
+div:nth-child(79) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 7.9s;
+  -moz-animation-delay: 7.9s;
+  -o-animation-delay: 7.9s;
+  animation-delay: 7.9s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 158px;
+  top: -158px;
+  left: -158px;
+}
+div:nth-child(78) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 7.800000000000001s;
+  -moz-animation-delay: 7.800000000000001s;
+  -o-animation-delay: 7.800000000000001s;
+  animation-delay: 7.800000000000001s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 156px;
+  top: -156px;
+  left: -156px;
+}
+div:nth-child(77) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 7.7s;
+  -moz-animation-delay: 7.7s;
+  -o-animation-delay: 7.7s;
+  animation-delay: 7.7s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 154px;
+  top: -154px;
+  left: -154px;
+}
+div:nth-child(76) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 7.6000000000000005s;
+  -moz-animation-delay: 7.6000000000000005s;
+  -o-animation-delay: 7.6000000000000005s;
+  animation-delay: 7.6000000000000005s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 152px;
+  top: -152px;
+  left: -152px;
+}
+div:nth-child(75) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 7.5s;
+  -moz-animation-delay: 7.5s;
+  -o-animation-delay: 7.5s;
+  animation-delay: 7.5s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 150px;
+  top: -150px;
+  left: -150px;
+}
+div:nth-child(74) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 7.4s;
+  -moz-animation-delay: 7.4s;
+  -o-animation-delay: 7.4s;
+  animation-delay: 7.4s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 148px;
+  top: -148px;
+  left: -148px;
+}
+div:nth-child(73) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 7.300000000000001s;
+  -moz-animation-delay: 7.300000000000001s;
+  -o-animation-delay: 7.300000000000001s;
+  animation-delay: 7.300000000000001s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 146px;
+  top: -146px;
+  left: -146px;
+}
+div:nth-child(72) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 7.2s;
+  -moz-animation-delay: 7.2s;
+  -o-animation-delay: 7.2s;
+  animation-delay: 7.2s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 144px;
+  top: -144px;
+  left: -144px;
+}
+div:nth-child(71) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 7.1000000000000005s;
+  -moz-animation-delay: 7.1000000000000005s;
+  -o-animation-delay: 7.1000000000000005s;
+  animation-delay: 7.1000000000000005s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 142px;
+  top: -142px;
+  left: -142px;
+}
+div:nth-child(70) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 7s;
+  -moz-animation-delay: 7s;
+  -o-animation-delay: 7s;
+  animation-delay: 7s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 140px;
+  top: -140px;
+  left: -140px;
+}
+div:nth-child(69) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 6.9s;
+  -moz-animation-delay: 6.9s;
+  -o-animation-delay: 6.9s;
+  animation-delay: 6.9s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 138px;
+  top: -138px;
+  left: -138px;
+}
+div:nth-child(68) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 6.800000000000001s;
+  -moz-animation-delay: 6.800000000000001s;
+  -o-animation-delay: 6.800000000000001s;
+  animation-delay: 6.800000000000001s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 136px;
+  top: -136px;
+  left: -136px;
+}
+div:nth-child(67) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 6.7s;
+  -moz-animation-delay: 6.7s;
+  -o-animation-delay: 6.7s;
+  animation-delay: 6.7s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 134px;
+  top: -134px;
+  left: -134px;
+}
+div:nth-child(66) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 6.6000000000000005s;
+  -moz-animation-delay: 6.6000000000000005s;
+  -o-animation-delay: 6.6000000000000005s;
+  animation-delay: 6.6000000000000005s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 132px;
+  top: -132px;
+  left: -132px;
+}
+div:nth-child(65) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 6.5s;
+  -moz-animation-delay: 6.5s;
+  -o-animation-delay: 6.5s;
+  animation-delay: 6.5s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 130px;
+  top: -130px;
+  left: -130px;
+}
+div:nth-child(64) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 6.4s;
+  -moz-animation-delay: 6.4s;
+  -o-animation-delay: 6.4s;
+  animation-delay: 6.4s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 128px;
+  top: -128px;
+  left: -128px;
+}
+div:nth-child(63) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 6.300000000000001s;
+  -moz-animation-delay: 6.300000000000001s;
+  -o-animation-delay: 6.300000000000001s;
+  animation-delay: 6.300000000000001s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 126px;
+  top: -126px;
+  left: -126px;
+}
+div:nth-child(62) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 6.2s;
+  -moz-animation-delay: 6.2s;
+  -o-animation-delay: 6.2s;
+  animation-delay: 6.2s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 124px;
+  top: -124px;
+  left: -124px;
+}
+div:nth-child(61) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 6.1000000000000005s;
+  -moz-animation-delay: 6.1000000000000005s;
+  -o-animation-delay: 6.1000000000000005s;
+  animation-delay: 6.1000000000000005s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 122px;
+  top: -122px;
+  left: -122px;
+}
+div:nth-child(60) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 6s;
+  -moz-animation-delay: 6s;
+  -o-animation-delay: 6s;
+  animation-delay: 6s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 120px;
+  top: -120px;
+  left: -120px;
+}
+div:nth-child(59) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 5.9s;
+  -moz-animation-delay: 5.9s;
+  -o-animation-delay: 5.9s;
+  animation-delay: 5.9s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 118px;
+  top: -118px;
+  left: -118px;
+}
+div:nth-child(58) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 5.800000000000001s;
+  -moz-animation-delay: 5.800000000000001s;
+  -o-animation-delay: 5.800000000000001s;
+  animation-delay: 5.800000000000001s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 116px;
+  top: -116px;
+  left: -116px;
+}
+div:nth-child(57) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 5.7s;
+  -moz-animation-delay: 5.7s;
+  -o-animation-delay: 5.7s;
+  animation-delay: 5.7s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 114px;
+  top: -114px;
+  left: -114px;
+}
+div:nth-child(56) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 5.6000000000000005s;
+  -moz-animation-delay: 5.6000000000000005s;
+  -o-animation-delay: 5.6000000000000005s;
+  animation-delay: 5.6000000000000005s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 112px;
+  top: -112px;
+  left: -112px;
+}
+div:nth-child(55) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 5.5s;
+  -moz-animation-delay: 5.5s;
+  -o-animation-delay: 5.5s;
+  animation-delay: 5.5s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 110px;
+  top: -110px;
+  left: -110px;
+}
+div:nth-child(54) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 5.4s;
+  -moz-animation-delay: 5.4s;
+  -o-animation-delay: 5.4s;
+  animation-delay: 5.4s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 108px;
+  top: -108px;
+  left: -108px;
+}
+div:nth-child(53) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 5.300000000000001s;
+  -moz-animation-delay: 5.300000000000001s;
+  -o-animation-delay: 5.300000000000001s;
+  animation-delay: 5.300000000000001s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 106px;
+  top: -106px;
+  left: -106px;
+}
+div:nth-child(52) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 5.2s;
+  -moz-animation-delay: 5.2s;
+  -o-animation-delay: 5.2s;
+  animation-delay: 5.2s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 104px;
+  top: -104px;
+  left: -104px;
+}
+div:nth-child(51) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 5.1000000000000005s;
+  -moz-animation-delay: 5.1000000000000005s;
+  -o-animation-delay: 5.1000000000000005s;
+  animation-delay: 5.1000000000000005s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 102px;
+  top: -102px;
+  left: -102px;
+}
+div:nth-child(50) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 5s;
+  -moz-animation-delay: 5s;
+  -o-animation-delay: 5s;
+  animation-delay: 5s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 100px;
+  top: -100px;
+  left: -100px;
+}
+div:nth-child(49) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 4.9s;
+  -moz-animation-delay: 4.9s;
+  -o-animation-delay: 4.9s;
+  animation-delay: 4.9s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 98px;
+  top: -98px;
+  left: -98px;
+}
+div:nth-child(48) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 4.800000000000001s;
+  -moz-animation-delay: 4.800000000000001s;
+  -o-animation-delay: 4.800000000000001s;
+  animation-delay: 4.800000000000001s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 96px;
+  top: -96px;
+  left: -96px;
+}
+div:nth-child(47) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 4.7s;
+  -moz-animation-delay: 4.7s;
+  -o-animation-delay: 4.7s;
+  animation-delay: 4.7s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 94px;
+  top: -94px;
+  left: -94px;
+}
+div:nth-child(46) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 4.6000000000000005s;
+  -moz-animation-delay: 4.6000000000000005s;
+  -o-animation-delay: 4.6000000000000005s;
+  animation-delay: 4.6000000000000005s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 92px;
+  top: -92px;
+  left: -92px;
+}
+div:nth-child(45) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 4.5s;
+  -moz-animation-delay: 4.5s;
+  -o-animation-delay: 4.5s;
+  animation-delay: 4.5s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 90px;
+  top: -90px;
+  left: -90px;
+}
+div:nth-child(44) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 4.4s;
+  -moz-animation-delay: 4.4s;
+  -o-animation-delay: 4.4s;
+  animation-delay: 4.4s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 88px;
+  top: -88px;
+  left: -88px;
+}
+div:nth-child(43) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 4.3s;
+  -moz-animation-delay: 4.3s;
+  -o-animation-delay: 4.3s;
+  animation-delay: 4.3s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 86px;
+  top: -86px;
+  left: -86px;
+}
+div:nth-child(42) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 4.2s;
+  -moz-animation-delay: 4.2s;
+  -o-animation-delay: 4.2s;
+  animation-delay: 4.2s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 84px;
+  top: -84px;
+  left: -84px;
+}
+div:nth-child(41) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 4.1000000000000005s;
+  -moz-animation-delay: 4.1000000000000005s;
+  -o-animation-delay: 4.1000000000000005s;
+  animation-delay: 4.1000000000000005s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 82px;
+  top: -82px;
+  left: -82px;
+}
+div:nth-child(40) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 4s;
+  -moz-animation-delay: 4s;
+  -o-animation-delay: 4s;
+  animation-delay: 4s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 80px;
+  top: -80px;
+  left: -80px;
+}
+div:nth-child(39) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 3.9000000000000004s;
+  -moz-animation-delay: 3.9000000000000004s;
+  -o-animation-delay: 3.9000000000000004s;
+  animation-delay: 3.9000000000000004s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 78px;
+  top: -78px;
+  left: -78px;
+}
+div:nth-child(38) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 3.8000000000000003s;
+  -moz-animation-delay: 3.8000000000000003s;
+  -o-animation-delay: 3.8000000000000003s;
+  animation-delay: 3.8000000000000003s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 76px;
+  top: -76px;
+  left: -76px;
+}
+div:nth-child(37) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 3.7s;
+  -moz-animation-delay: 3.7s;
+  -o-animation-delay: 3.7s;
+  animation-delay: 3.7s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 74px;
+  top: -74px;
+  left: -74px;
+}
+div:nth-child(36) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 3.6s;
+  -moz-animation-delay: 3.6s;
+  -o-animation-delay: 3.6s;
+  animation-delay: 3.6s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 72px;
+  top: -72px;
+  left: -72px;
+}
+div:nth-child(35) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 3.5s;
+  -moz-animation-delay: 3.5s;
+  -o-animation-delay: 3.5s;
+  animation-delay: 3.5s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 70px;
+  top: -70px;
+  left: -70px;
+}
+div:nth-child(34) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 3.4000000000000004s;
+  -moz-animation-delay: 3.4000000000000004s;
+  -o-animation-delay: 3.4000000000000004s;
+  animation-delay: 3.4000000000000004s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 68px;
+  top: -68px;
+  left: -68px;
+}
+div:nth-child(33) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 3.3000000000000003s;
+  -moz-animation-delay: 3.3000000000000003s;
+  -o-animation-delay: 3.3000000000000003s;
+  animation-delay: 3.3000000000000003s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 66px;
+  top: -66px;
+  left: -66px;
+}
+div:nth-child(32) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 3.2s;
+  -moz-animation-delay: 3.2s;
+  -o-animation-delay: 3.2s;
+  animation-delay: 3.2s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 64px;
+  top: -64px;
+  left: -64px;
+}
+div:nth-child(31) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 3.1s;
+  -moz-animation-delay: 3.1s;
+  -o-animation-delay: 3.1s;
+  animation-delay: 3.1s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 62px;
+  top: -62px;
+  left: -62px;
+}
+div:nth-child(30) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 3s;
+  -moz-animation-delay: 3s;
+  -o-animation-delay: 3s;
+  animation-delay: 3s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 60px;
+  top: -60px;
+  left: -60px;
+}
+div:nth-child(29) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 2.9000000000000004s;
+  -moz-animation-delay: 2.9000000000000004s;
+  -o-animation-delay: 2.9000000000000004s;
+  animation-delay: 2.9000000000000004s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 58px;
+  top: -58px;
+  left: -58px;
+}
+div:nth-child(28) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 2.8000000000000003s;
+  -moz-animation-delay: 2.8000000000000003s;
+  -o-animation-delay: 2.8000000000000003s;
+  animation-delay: 2.8000000000000003s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 56px;
+  top: -56px;
+  left: -56px;
+}
+div:nth-child(27) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 2.7s;
+  -moz-animation-delay: 2.7s;
+  -o-animation-delay: 2.7s;
+  animation-delay: 2.7s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 54px;
+  top: -54px;
+  left: -54px;
+}
+div:nth-child(26) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 2.6s;
+  -moz-animation-delay: 2.6s;
+  -o-animation-delay: 2.6s;
+  animation-delay: 2.6s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 52px;
+  top: -52px;
+  left: -52px;
+}
+div:nth-child(25) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 2.5s;
+  -moz-animation-delay: 2.5s;
+  -o-animation-delay: 2.5s;
+  animation-delay: 2.5s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 50px;
+  top: -50px;
+  left: -50px;
+}
+div:nth-child(24) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 2.4000000000000004s;
+  -moz-animation-delay: 2.4000000000000004s;
+  -o-animation-delay: 2.4000000000000004s;
+  animation-delay: 2.4000000000000004s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 48px;
+  top: -48px;
+  left: -48px;
+}
+div:nth-child(23) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 2.3000000000000003s;
+  -moz-animation-delay: 2.3000000000000003s;
+  -o-animation-delay: 2.3000000000000003s;
+  animation-delay: 2.3000000000000003s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 46px;
+  top: -46px;
+  left: -46px;
+}
+div:nth-child(22) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 2.2s;
+  -moz-animation-delay: 2.2s;
+  -o-animation-delay: 2.2s;
+  animation-delay: 2.2s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 44px;
+  top: -44px;
+  left: -44px;
+}
+div:nth-child(21) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 2.1s;
+  -moz-animation-delay: 2.1s;
+  -o-animation-delay: 2.1s;
+  animation-delay: 2.1s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 42px;
+  top: -42px;
+  left: -42px;
+}
+div:nth-child(20) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 2s;
+  -moz-animation-delay: 2s;
+  -o-animation-delay: 2s;
+  animation-delay: 2s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 40px;
+  top: -40px;
+  left: -40px;
+}
+div:nth-child(19) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 1.9000000000000001s;
+  -moz-animation-delay: 1.9000000000000001s;
+  -o-animation-delay: 1.9000000000000001s;
+  animation-delay: 1.9000000000000001s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 38px;
+  top: -38px;
+  left: -38px;
+}
+div:nth-child(18) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 1.8s;
+  -moz-animation-delay: 1.8s;
+  -o-animation-delay: 1.8s;
+  animation-delay: 1.8s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 36px;
+  top: -36px;
+  left: -36px;
+}
+div:nth-child(17) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 1.7000000000000002s;
+  -moz-animation-delay: 1.7000000000000002s;
+  -o-animation-delay: 1.7000000000000002s;
+  animation-delay: 1.7000000000000002s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 34px;
+  top: -34px;
+  left: -34px;
+}
+div:nth-child(16) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 1.6s;
+  -moz-animation-delay: 1.6s;
+  -o-animation-delay: 1.6s;
+  animation-delay: 1.6s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 32px;
+  top: -32px;
+  left: -32px;
+}
+div:nth-child(15) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 1.5s;
+  -moz-animation-delay: 1.5s;
+  -o-animation-delay: 1.5s;
+  animation-delay: 1.5s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 30px;
+  top: -30px;
+  left: -30px;
+}
+div:nth-child(14) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 1.4000000000000001s;
+  -moz-animation-delay: 1.4000000000000001s;
+  -o-animation-delay: 1.4000000000000001s;
+  animation-delay: 1.4000000000000001s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 28px;
+  top: -28px;
+  left: -28px;
+}
+div:nth-child(13) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 1.3s;
+  -moz-animation-delay: 1.3s;
+  -o-animation-delay: 1.3s;
+  animation-delay: 1.3s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 26px;
+  top: -26px;
+  left: -26px;
+}
+div:nth-child(12) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 1.2000000000000002s;
+  -moz-animation-delay: 1.2000000000000002s;
+  -o-animation-delay: 1.2000000000000002s;
+  animation-delay: 1.2000000000000002s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 24px;
+  top: -24px;
+  left: -24px;
+}
+div:nth-child(11) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 1.1s;
+  -moz-animation-delay: 1.1s;
+  -o-animation-delay: 1.1s;
+  animation-delay: 1.1s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 22px;
+  top: -22px;
+  left: -22px;
+}
+div:nth-child(10) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 1s;
+  -moz-animation-delay: 1s;
+  -o-animation-delay: 1s;
+  animation-delay: 1s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 20px;
+  top: -20px;
+  left: -20px;
+}
+div:nth-child(9) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 0.9s;
+  -moz-animation-delay: 0.9s;
+  -o-animation-delay: 0.9s;
+  animation-delay: 0.9s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 18px;
+  top: -18px;
+  left: -18px;
+}
+div:nth-child(8) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 0.8s;
+  -moz-animation-delay: 0.8s;
+  -o-animation-delay: 0.8s;
+  animation-delay: 0.8s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 16px;
+  top: -16px;
+  left: -16px;
+}
+div:nth-child(7) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 0.7000000000000001s;
+  -moz-animation-delay: 0.7000000000000001s;
+  -o-animation-delay: 0.7000000000000001s;
+  animation-delay: 0.7000000000000001s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 14px;
+  top: -14px;
+  left: -14px;
+}
+div:nth-child(6) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 0.6000000000000001s;
+  -moz-animation-delay: 0.6000000000000001s;
+  -o-animation-delay: 0.6000000000000001s;
+  animation-delay: 0.6000000000000001s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 12px;
+  top: -12px;
+  left: -12px;
+}
+div:nth-child(5) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -o-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 10px;
+  top: -10px;
+  left: -10px;
+}
+div:nth-child(4) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 0.4s;
+  -moz-animation-delay: 0.4s;
+  -o-animation-delay: 0.4s;
+  animation-delay: 0.4s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 8px;
+  top: -8px;
+  left: -8px;
+}
+div:nth-child(3) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 0.30000000000000004s;
+  -moz-animation-delay: 0.30000000000000004s;
+  -o-animation-delay: 0.30000000000000004s;
+  animation-delay: 0.30000000000000004s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 6px;
+  top: -6px;
+  left: -6px;
+}
+div:nth-child(2) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 0.2s;
+  -moz-animation-delay: 0.2s;
+  -o-animation-delay: 0.2s;
+  animation-delay: 0.2s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 4px;
+  top: -4px;
+  left: -4px;
+}
+div:nth-child(1) {
+  -webkit-animation: magic 4s ease infinite alternate;
+  -moz-animation: magic 4s ease infinite alternate;
+  -o-animation: magic 4s ease infinite alternate;
+  animation: magic 4s ease infinite alternate;
+  -webkit-animation-delay: 0.1s;
+  -moz-animation-delay: 0.1s;
+  -o-animation-delay: 0.1s;
+  animation-delay: 0.1s;
+  border: 1px solid #A9835D;
+  border-style: inset dotted outset dotted;
+  padding: 2px;
+  top: -2px;
+  left: -2px;
+}
+div {
+  position: absolute;
+  border-radius: 50%;
+}
+section {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+body {
+  background-color: #FDE5C2;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+lesshat-selector {
+  -lh-property: 0; } 
+@-webkit-keyframes magic{ 0% {} 50% {-webkit-transform: rotate(90deg) skew(15deg)} 100% {-webkit-transform: rotate(90deg) skew(45deg)}}
+@-moz-keyframes magic{ 0% {} 50% {-moz-transform: rotate(90deg) skew(15deg)} 100% {-moz-transform: rotate(90deg) skew(45deg)}}
+@-o-keyframes magic{ 0% {} 50% {-o-transform: rotate(90deg) skew(15deg)} 100% {-o-transform: rotate(90deg) skew(45deg)}}
+@keyframes magic{ 0% {} 50% {-webkit-transform: rotate(90deg) skew(15deg);-moz-transform: rotate(90deg) skew(15deg);-ms-transform: rotate(90deg) skew(15deg);transform: rotate(90deg) skew(15deg);} 100% {-webkit-transform: rotate(90deg) skew(45deg);-moz-transform: rotate(90deg) skew(45deg);-ms-transform: rotate(90deg) skew(45deg);transform: rotate(90deg) skew(45deg);};
+}

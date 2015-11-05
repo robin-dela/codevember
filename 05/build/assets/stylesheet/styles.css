@@ -1,0 +1,501 @@
+div:nth-child(25) {
+  width: 200px;
+  height: 200px;
+  background-color: #fff;
+  top: -100px;
+  left: -41.25px;
+  z-index: -25;
+  -webkit-animation: magic 2s ease-out infinite;
+  -moz-animation: magic 2s ease-out infinite;
+  -o-animation: magic 2s ease-out infinite;
+  animation: magic 2s ease-out infinite;
+  -webkit-animation-delay: 2.5s;
+  -moz-animation-delay: 2.5s;
+  -o-animation-delay: 2.5s;
+  animation-delay: 2.5s;
+}
+div:nth-child(25):nth-child(odd) {
+  background-color: #000;
+}
+div:nth-child(24) {
+  width: 192px;
+  height: 192px;
+  background-color: #fff;
+  top: -96px;
+  left: -39.599999999999994px;
+  z-index: -24;
+  -webkit-animation: magic 2s ease-out infinite;
+  -moz-animation: magic 2s ease-out infinite;
+  -o-animation: magic 2s ease-out infinite;
+  animation: magic 2s ease-out infinite;
+  -webkit-animation-delay: 2.4000000000000004s;
+  -moz-animation-delay: 2.4000000000000004s;
+  -o-animation-delay: 2.4000000000000004s;
+  animation-delay: 2.4000000000000004s;
+}
+div:nth-child(24):nth-child(odd) {
+  background-color: #000;
+}
+div:nth-child(23) {
+  width: 184px;
+  height: 184px;
+  background-color: #fff;
+  top: -92px;
+  left: -37.949999999999996px;
+  z-index: -23;
+  -webkit-animation: magic 2s ease-out infinite;
+  -moz-animation: magic 2s ease-out infinite;
+  -o-animation: magic 2s ease-out infinite;
+  animation: magic 2s ease-out infinite;
+  -webkit-animation-delay: 2.3000000000000003s;
+  -moz-animation-delay: 2.3000000000000003s;
+  -o-animation-delay: 2.3000000000000003s;
+  animation-delay: 2.3000000000000003s;
+}
+div:nth-child(23):nth-child(odd) {
+  background-color: #000;
+}
+div:nth-child(22) {
+  width: 176px;
+  height: 176px;
+  background-color: #fff;
+  top: -88px;
+  left: -36.3px;
+  z-index: -22;
+  -webkit-animation: magic 2s ease-out infinite;
+  -moz-animation: magic 2s ease-out infinite;
+  -o-animation: magic 2s ease-out infinite;
+  animation: magic 2s ease-out infinite;
+  -webkit-animation-delay: 2.2s;
+  -moz-animation-delay: 2.2s;
+  -o-animation-delay: 2.2s;
+  animation-delay: 2.2s;
+}
+div:nth-child(22):nth-child(odd) {
+  background-color: #000;
+}
+div:nth-child(21) {
+  width: 168px;
+  height: 168px;
+  background-color: #fff;
+  top: -84px;
+  left: -34.65px;
+  z-index: -21;
+  -webkit-animation: magic 2s ease-out infinite;
+  -moz-animation: magic 2s ease-out infinite;
+  -o-animation: magic 2s ease-out infinite;
+  animation: magic 2s ease-out infinite;
+  -webkit-animation-delay: 2.1s;
+  -moz-animation-delay: 2.1s;
+  -o-animation-delay: 2.1s;
+  animation-delay: 2.1s;
+}
+div:nth-child(21):nth-child(odd) {
+  background-color: #000;
+}
+div:nth-child(20) {
+  width: 160px;
+  height: 160px;
+  background-color: #fff;
+  top: -80px;
+  left: -33px;
+  z-index: -20;
+  -webkit-animation: magic 2s ease-out infinite;
+  -moz-animation: magic 2s ease-out infinite;
+  -o-animation: magic 2s ease-out infinite;
+  animation: magic 2s ease-out infinite;
+  -webkit-animation-delay: 2s;
+  -moz-animation-delay: 2s;
+  -o-animation-delay: 2s;
+  animation-delay: 2s;
+}
+div:nth-child(20):nth-child(odd) {
+  background-color: #000;
+}
+div:nth-child(19) {
+  width: 152px;
+  height: 152px;
+  background-color: #fff;
+  top: -76px;
+  left: -31.349999999999998px;
+  z-index: -19;
+  -webkit-animation: magic 2s ease-out infinite;
+  -moz-animation: magic 2s ease-out infinite;
+  -o-animation: magic 2s ease-out infinite;
+  animation: magic 2s ease-out infinite;
+  -webkit-animation-delay: 1.9000000000000001s;
+  -moz-animation-delay: 1.9000000000000001s;
+  -o-animation-delay: 1.9000000000000001s;
+  animation-delay: 1.9000000000000001s;
+}
+div:nth-child(19):nth-child(odd) {
+  background-color: #000;
+}
+div:nth-child(18) {
+  width: 144px;
+  height: 144px;
+  background-color: #fff;
+  top: -72px;
+  left: -29.7px;
+  z-index: -18;
+  -webkit-animation: magic 2s ease-out infinite;
+  -moz-animation: magic 2s ease-out infinite;
+  -o-animation: magic 2s ease-out infinite;
+  animation: magic 2s ease-out infinite;
+  -webkit-animation-delay: 1.8s;
+  -moz-animation-delay: 1.8s;
+  -o-animation-delay: 1.8s;
+  animation-delay: 1.8s;
+}
+div:nth-child(18):nth-child(odd) {
+  background-color: #000;
+}
+div:nth-child(17) {
+  width: 136px;
+  height: 136px;
+  background-color: #fff;
+  top: -68px;
+  left: -28.049999999999997px;
+  z-index: -17;
+  -webkit-animation: magic 2s ease-out infinite;
+  -moz-animation: magic 2s ease-out infinite;
+  -o-animation: magic 2s ease-out infinite;
+  animation: magic 2s ease-out infinite;
+  -webkit-animation-delay: 1.7000000000000002s;
+  -moz-animation-delay: 1.7000000000000002s;
+  -o-animation-delay: 1.7000000000000002s;
+  animation-delay: 1.7000000000000002s;
+}
+div:nth-child(17):nth-child(odd) {
+  background-color: #000;
+}
+div:nth-child(16) {
+  width: 128px;
+  height: 128px;
+  background-color: #fff;
+  top: -64px;
+  left: -26.4px;
+  z-index: -16;
+  -webkit-animation: magic 2s ease-out infinite;
+  -moz-animation: magic 2s ease-out infinite;
+  -o-animation: magic 2s ease-out infinite;
+  animation: magic 2s ease-out infinite;
+  -webkit-animation-delay: 1.6s;
+  -moz-animation-delay: 1.6s;
+  -o-animation-delay: 1.6s;
+  animation-delay: 1.6s;
+}
+div:nth-child(16):nth-child(odd) {
+  background-color: #000;
+}
+div:nth-child(15) {
+  width: 120px;
+  height: 120px;
+  background-color: #fff;
+  top: -60px;
+  left: -24.75px;
+  z-index: -15;
+  -webkit-animation: magic 2s ease-out infinite;
+  -moz-animation: magic 2s ease-out infinite;
+  -o-animation: magic 2s ease-out infinite;
+  animation: magic 2s ease-out infinite;
+  -webkit-animation-delay: 1.5s;
+  -moz-animation-delay: 1.5s;
+  -o-animation-delay: 1.5s;
+  animation-delay: 1.5s;
+}
+div:nth-child(15):nth-child(odd) {
+  background-color: #000;
+}
+div:nth-child(14) {
+  width: 112px;
+  height: 112px;
+  background-color: #fff;
+  top: -56px;
+  left: -23.099999999999998px;
+  z-index: -14;
+  -webkit-animation: magic 2s ease-out infinite;
+  -moz-animation: magic 2s ease-out infinite;
+  -o-animation: magic 2s ease-out infinite;
+  animation: magic 2s ease-out infinite;
+  -webkit-animation-delay: 1.4000000000000001s;
+  -moz-animation-delay: 1.4000000000000001s;
+  -o-animation-delay: 1.4000000000000001s;
+  animation-delay: 1.4000000000000001s;
+}
+div:nth-child(14):nth-child(odd) {
+  background-color: #000;
+}
+div:nth-child(13) {
+  width: 104px;
+  height: 104px;
+  background-color: #fff;
+  top: -52px;
+  left: -21.45px;
+  z-index: -13;
+  -webkit-animation: magic 2s ease-out infinite;
+  -moz-animation: magic 2s ease-out infinite;
+  -o-animation: magic 2s ease-out infinite;
+  animation: magic 2s ease-out infinite;
+  -webkit-animation-delay: 1.3s;
+  -moz-animation-delay: 1.3s;
+  -o-animation-delay: 1.3s;
+  animation-delay: 1.3s;
+}
+div:nth-child(13):nth-child(odd) {
+  background-color: #000;
+}
+div:nth-child(12) {
+  width: 96px;
+  height: 96px;
+  background-color: #fff;
+  top: -48px;
+  left: -19.799999999999997px;
+  z-index: -12;
+  -webkit-animation: magic 2s ease-out infinite;
+  -moz-animation: magic 2s ease-out infinite;
+  -o-animation: magic 2s ease-out infinite;
+  animation: magic 2s ease-out infinite;
+  -webkit-animation-delay: 1.2000000000000002s;
+  -moz-animation-delay: 1.2000000000000002s;
+  -o-animation-delay: 1.2000000000000002s;
+  animation-delay: 1.2000000000000002s;
+}
+div:nth-child(12):nth-child(odd) {
+  background-color: #000;
+}
+div:nth-child(11) {
+  width: 88px;
+  height: 88px;
+  background-color: #fff;
+  top: -44px;
+  left: -18.15px;
+  z-index: -11;
+  -webkit-animation: magic 2s ease-out infinite;
+  -moz-animation: magic 2s ease-out infinite;
+  -o-animation: magic 2s ease-out infinite;
+  animation: magic 2s ease-out infinite;
+  -webkit-animation-delay: 1.1s;
+  -moz-animation-delay: 1.1s;
+  -o-animation-delay: 1.1s;
+  animation-delay: 1.1s;
+}
+div:nth-child(11):nth-child(odd) {
+  background-color: #000;
+}
+div:nth-child(10) {
+  width: 80px;
+  height: 80px;
+  background-color: #fff;
+  top: -40px;
+  left: -16.5px;
+  z-index: -10;
+  -webkit-animation: magic 2s ease-out infinite;
+  -moz-animation: magic 2s ease-out infinite;
+  -o-animation: magic 2s ease-out infinite;
+  animation: magic 2s ease-out infinite;
+  -webkit-animation-delay: 1s;
+  -moz-animation-delay: 1s;
+  -o-animation-delay: 1s;
+  animation-delay: 1s;
+}
+div:nth-child(10):nth-child(odd) {
+  background-color: #000;
+}
+div:nth-child(9) {
+  width: 72px;
+  height: 72px;
+  background-color: #fff;
+  top: -36px;
+  left: -14.85px;
+  z-index: -9;
+  -webkit-animation: magic 2s ease-out infinite;
+  -moz-animation: magic 2s ease-out infinite;
+  -o-animation: magic 2s ease-out infinite;
+  animation: magic 2s ease-out infinite;
+  -webkit-animation-delay: 0.9s;
+  -moz-animation-delay: 0.9s;
+  -o-animation-delay: 0.9s;
+  animation-delay: 0.9s;
+}
+div:nth-child(9):nth-child(odd) {
+  background-color: #000;
+}
+div:nth-child(8) {
+  width: 64px;
+  height: 64px;
+  background-color: #fff;
+  top: -32px;
+  left: -13.2px;
+  z-index: -8;
+  -webkit-animation: magic 2s ease-out infinite;
+  -moz-animation: magic 2s ease-out infinite;
+  -o-animation: magic 2s ease-out infinite;
+  animation: magic 2s ease-out infinite;
+  -webkit-animation-delay: 0.8s;
+  -moz-animation-delay: 0.8s;
+  -o-animation-delay: 0.8s;
+  animation-delay: 0.8s;
+}
+div:nth-child(8):nth-child(odd) {
+  background-color: #000;
+}
+div:nth-child(7) {
+  width: 56px;
+  height: 56px;
+  background-color: #fff;
+  top: -28px;
+  left: -11.549999999999999px;
+  z-index: -7;
+  -webkit-animation: magic 2s ease-out infinite;
+  -moz-animation: magic 2s ease-out infinite;
+  -o-animation: magic 2s ease-out infinite;
+  animation: magic 2s ease-out infinite;
+  -webkit-animation-delay: 0.7000000000000001s;
+  -moz-animation-delay: 0.7000000000000001s;
+  -o-animation-delay: 0.7000000000000001s;
+  animation-delay: 0.7000000000000001s;
+}
+div:nth-child(7):nth-child(odd) {
+  background-color: #000;
+}
+div:nth-child(6) {
+  width: 48px;
+  height: 48px;
+  background-color: #fff;
+  top: -24px;
+  left: -9.899999999999999px;
+  z-index: -6;
+  -webkit-animation: magic 2s ease-out infinite;
+  -moz-animation: magic 2s ease-out infinite;
+  -o-animation: magic 2s ease-out infinite;
+  animation: magic 2s ease-out infinite;
+  -webkit-animation-delay: 0.6000000000000001s;
+  -moz-animation-delay: 0.6000000000000001s;
+  -o-animation-delay: 0.6000000000000001s;
+  animation-delay: 0.6000000000000001s;
+}
+div:nth-child(6):nth-child(odd) {
+  background-color: #000;
+}
+div:nth-child(5) {
+  width: 40px;
+  height: 40px;
+  background-color: #fff;
+  top: -20px;
+  left: -8.25px;
+  z-index: -5;
+  -webkit-animation: magic 2s ease-out infinite;
+  -moz-animation: magic 2s ease-out infinite;
+  -o-animation: magic 2s ease-out infinite;
+  animation: magic 2s ease-out infinite;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -o-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+}
+div:nth-child(5):nth-child(odd) {
+  background-color: #000;
+}
+div:nth-child(4) {
+  width: 32px;
+  height: 32px;
+  background-color: #fff;
+  top: -16px;
+  left: -6.6px;
+  z-index: -4;
+  -webkit-animation: magic 2s ease-out infinite;
+  -moz-animation: magic 2s ease-out infinite;
+  -o-animation: magic 2s ease-out infinite;
+  animation: magic 2s ease-out infinite;
+  -webkit-animation-delay: 0.4s;
+  -moz-animation-delay: 0.4s;
+  -o-animation-delay: 0.4s;
+  animation-delay: 0.4s;
+}
+div:nth-child(4):nth-child(odd) {
+  background-color: #000;
+}
+div:nth-child(3) {
+  width: 24px;
+  height: 24px;
+  background-color: #fff;
+  top: -12px;
+  left: -4.949999999999999px;
+  z-index: -3;
+  -webkit-animation: magic 2s ease-out infinite;
+  -moz-animation: magic 2s ease-out infinite;
+  -o-animation: magic 2s ease-out infinite;
+  animation: magic 2s ease-out infinite;
+  -webkit-animation-delay: 0.30000000000000004s;
+  -moz-animation-delay: 0.30000000000000004s;
+  -o-animation-delay: 0.30000000000000004s;
+  animation-delay: 0.30000000000000004s;
+}
+div:nth-child(3):nth-child(odd) {
+  background-color: #000;
+}
+div:nth-child(2) {
+  width: 16px;
+  height: 16px;
+  background-color: #fff;
+  top: -8px;
+  left: -3.3px;
+  z-index: -2;
+  -webkit-animation: magic 2s ease-out infinite;
+  -moz-animation: magic 2s ease-out infinite;
+  -o-animation: magic 2s ease-out infinite;
+  animation: magic 2s ease-out infinite;
+  -webkit-animation-delay: 0.2s;
+  -moz-animation-delay: 0.2s;
+  -o-animation-delay: 0.2s;
+  animation-delay: 0.2s;
+}
+div:nth-child(2):nth-child(odd) {
+  background-color: #000;
+}
+div:nth-child(1) {
+  width: 8px;
+  height: 8px;
+  background-color: #fff;
+  top: -4px;
+  left: -1.65px;
+  z-index: -1;
+  -webkit-animation: magic 2s ease-out infinite;
+  -moz-animation: magic 2s ease-out infinite;
+  -o-animation: magic 2s ease-out infinite;
+  animation: magic 2s ease-out infinite;
+  -webkit-animation-delay: 0.1s;
+  -moz-animation-delay: 0.1s;
+  -o-animation-delay: 0.1s;
+  animation-delay: 0.1s;
+}
+div:nth-child(1):nth-child(odd) {
+  background-color: #000;
+}
+body {
+  background: black;
+  margin: 0;
+  padding: 0;
+}
+section {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+div {
+  position: absolute;
+  border-radius: 50%;
+}
+lesshat-selector {
+  -lh-property: 0; } 
+@-webkit-keyframes magic{ 0% {-webkit-transform: scale(1)} 100% {-webkit-transform: scale(2)}}
+@-moz-keyframes magic{ 0% {-moz-transform: scale(1)} 100% {-moz-transform: scale(2)}}
+@-o-keyframes magic{ 0% {-o-transform: scale(1)} 100% {-o-transform: scale(2)}}
+@keyframes magic{ 0% {-webkit-transform: scale(1);-moz-transform: scale(1);-ms-transform: scale(1);transform: scale(1);} 100% {-webkit-transform: scale(2);-moz-transform: scale(2);-ms-transform: scale(2);transform: scale(2);};
+}
