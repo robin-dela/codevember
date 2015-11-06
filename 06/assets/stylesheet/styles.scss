@@ -1,0 +1,35 @@
+body{
+  background: #000;
+  overflow: hidden;
+}
+@for $i from 1 through 100{
+  .line:nth-child(#{$i}){
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: rotate($i*-3.6deg);
+
+&:before{
+  content:'';
+  width: 80px;
+  height: 80px;
+  border: 1px solid white;
+  border-style: inset dashed;
+  position: absolute;
+  transform-origin: 0px 0px;
+  animation: star 6s linear infinite;
+  animation-delay: $i*-.6s;
+  }
+}
+@keyframes star{
+  0%{
+      transform: scale(1) translateX(-100px);
+    }
+  50%{
+      transform: scale(1.2) translateX(-100px);
+    }
+  100%{
+     transform: scale(1) translateX(-100px);
+    }
+  }
+}
