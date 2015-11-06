@@ -9,3 +9,5 @@
 [Pen #4](http://codepen.io/robin-dela/full/jbpKvP/)
 
 [Pen #5](http://codepen.io/robin-dela/full/XmBZNK/)
+
+[Pen #6](http://codepen.io/robin-dela/full/meGzoG/)
