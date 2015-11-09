@@ -11,3 +11,9 @@
 [Pen #5](http://codepen.io/robin-dela/full/XmBZNK/)
 
 [Pen #6](http://codepen.io/robin-dela/full/meGzoG/)
+
+[Pen #7](http://codepen.io/robin-dela/full/XmBGWa/)
+
+[Pen #8](http://codepen.io/robin-dela/full/avRzVx/)
+
+[Pen #9](http://codepen.io/robin-dela/full/ojayYL/)
