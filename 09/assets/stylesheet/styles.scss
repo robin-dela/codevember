@@ -1,0 +1,30 @@
+body{
+  background: #21233D;
+  overflow: hidden;
+}
+
+@for $i from 1 through 200{
+  .dots:nth-child(#{$i}){
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: rotate($i*3.6deg);
+    opacity: 0.4;
+    z-index: -$i;
+&:before{
+  content:'☄🖍☄🖍☄🗝';
+  //width: 100px;
+  //height: 100px;
+  position: absolute;
+  border: 1px solid #4F5593;
+  //border-style: dashed;
+  transform-origin: -20px 20px;
+  animation: dots 2s ease infinite;
+  animation-delay: $i*0.07s;
+  }
+}
+@keyframes dots{
+    100%{transform: scale(0.8) skew(45deg) rotate(1turn);
+    }
+  }
+}
