@@ -2,6 +2,6 @@
 	= Haml::Engine.new(File.read(File.expand_path File.dirname(__FILE__) + '/partials/header.haml')).render
 	%body
 		%section
-			- (1...400).each do
+			- (1...200).each do
 				%div.dots
 		= Haml::Engine.new(File.read(File.expand_path File.dirname(__FILE__) + '/partials/javascript.haml')).render

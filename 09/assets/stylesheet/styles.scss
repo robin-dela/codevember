@@ -12,12 +12,12 @@ body{
     opacity: 0.4;
     z-index: -$i;
 &:before{
-  content:'☄🖍☄🖍☄🗝';
-  //width: 100px;
-  //height: 100px;
+  content:'🍌🍍🍉🍒🍇🍆';
+  width: 10px;
+  height: 80px;
   position: absolute;
   border: 1px solid #4F5593;
-  //border-style: dashed;
+  border-style: dashed;
   transform-origin: -20px 20px;
   animation: dots 2s ease infinite;
   animation-delay: $i*0.07s;
