@@ -1,0 +1,59 @@
+@for $i from 1 through 250{
+  .stripes:nth-child(#{$i}){
+    animation: magic 4s linear infinite;
+    animation-delay:$i*.02s;
+  }
+}
+
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width:500px;
+  transform: translate(-50%, -50%);
+}
+
+body {
+  margin: 0;
+  pading: 0;
+  height:100vh;
+  width:100vw;
+  background: black;
+  background: radial-gradient(ellipse at center, rgba(71,71,71,1) 0%, rgba(0,30,0,1) 0%, rgba(0,0,0,1) 100%);
+}
+
+.stripes {
+  position: relative;
+  height: 2px;
+  width: 2px;
+  float: left;
+  border-top: 1px solid green;
+  box-shadow: 0px 0px 4px 1px #34ff34;
+}
+
+@keyframes magic {
+  30% {
+   transform:translateY(0px);
+  }
+  40% {
+   transform:translateY(-90px);
+  }
+  50% {
+   transform:translateY(90px);
+  }
+  60% {
+   transform:translateY(0px);
+  }
+  65% {
+   transform:translateY(0px);
+  }
+  70% {
+   transform:translateY(30px);
+  }
+  75% {
+   transform:translateY(-30px);
+  }
+  80% {
+   transform:translateY(0px);
+  }
+}

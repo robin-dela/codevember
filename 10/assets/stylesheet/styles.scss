@@ -1,0 +1,41 @@
+$size: 0px;
+@for $i from 1 through 250{
+  .stripes:nth-child(#{$i}){
+    animation: magic 1s linear infinite alternate;
+    animation-delay:$i*.004s;
+    background-image: url('http://robindelaporte.fr/_flag.jpg');
+    background-position:(0px - $size) 100%;
+  }
+  $size: $size + 2px;
+}
+
+.container {
+  position: absolute;
+  height: 287px;
+  width: 500px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.stripes {
+  position: relative;
+  height: 287px;
+  width: 2px;
+  float: left;
+}
+
+body {
+  background: black;
+  margin: 0;
+  padding: 0;
+}
+
+@keyframes magic {
+  50% {
+   transform: scale(1.02) rotate(2deg);
+  }
+  70% {
+    transform: scale(1.022) rotate(2.24deg);
+  }
+}
