@@ -1,0 +1,20 @@
+%html
+	= Haml::Engine.new(File.read(File.expand_path File.dirname(__FILE__) + '/partials/header.haml')).render
+	%body
+		.container
+			.subcontainer
+				.ditto.one
+					- (1...1156).each do
+						%div.pixels
+				.ditto.two
+					- (1...1156).each do
+						%div.pixels
+				.ditto.three
+					- (1...1156).each do
+						%div.pixels
+				.ditto.four
+					- (1...1156).each do
+						%div.pixels
+				%audio{ :autoplay => 'true' }
+					%source{ :src => 'http://robindelaporte.fr/song.mp3' }
+		= Haml::Engine.new(File.read(File.expand_path File.dirname(__FILE__) + '/partials/javascript.haml')).render

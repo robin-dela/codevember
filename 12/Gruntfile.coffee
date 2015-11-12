@@ -74,7 +74,6 @@ module.exports = (grunt) ->
         options:
           port: 3333
           base: 'build'
-          livereload: true
 
     open:
       dev:
