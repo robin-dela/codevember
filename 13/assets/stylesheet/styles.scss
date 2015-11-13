@@ -1,0 +1,39 @@
+@for $i from 1 through 450{
+  .line:nth-child(#{$i}){
+    height: $i*1px;
+    width: 3px;
+    background: #F9FBF2;
+    position: absolute;
+    left: $i * -0.5px;
+    top: $i * -0.5px;
+    opacity: random(100)/100;
+    animation: magic+$i 2s linear infinite alternate;
+    animation-delay: $i*.001s;
+    transform-origin: 50% 50%;
+    transform: rotate($i*-0.15deg);
+
+    @keyframes magic#{$i} {
+      0% {
+        transform: rotate($i*-0.15deg) scale(random(2)-3);
+      }
+      50% {
+        transform: rotate($i*-0.20deg) scale(random(2)-2.5);
+      }
+      100% {
+        transform: rotate($i*-0.17deg) scale(random(2)-3);
+      }
+    }
+  }
+}
+
+body {
+  overflow: hidden;
+  background: #BBCBCB;
+}
+
+.container {
+  position: absolute;
+  -webkit-box-reflect: right;
+  top: 50%;
+  left: 50%;
+}
