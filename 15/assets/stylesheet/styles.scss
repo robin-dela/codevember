@@ -1,0 +1,43 @@
+$blue: #017DC6;
+$white: #FFFFFF;
+$red: #ED2033;
+
+.rectangle {
+	height: 102px;
+	width:64px;
+	float: left;
+	border-radius: 4px;
+	&.blue {
+		background: $blue;
+	}
+	&.white {
+		background: $white;
+	}
+	&.red {
+		.line {
+			background: $red;
+			height: 102px;
+			width: 8px;
+			float: left;
+			border-radius: 0 0 4px 4px;
+			&:nth-child(1){
+				border-radius: 4px 0 4px 4px;
+			}
+			&:nth-child(8){
+				border-radius: 0 4px 4px 4px;
+			}
+		}
+		@for $i from 1 through 8{
+			.line:nth-child(#{$i}){
+				height: random(110) + 80 + px;
+			}
+		}
+	}
+}
+
+.container {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
