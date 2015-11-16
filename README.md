@@ -17,3 +17,15 @@
 [Pen #8](http://codepen.io/robin-dela/full/avRzVx/)
 
 [Pen #9](http://codepen.io/robin-dela/full/ojayYL/)
+
+[Pen #10](http://codepen.io/robin-dela/full/dYgExV/)
+
+[Pen #11](http://codepen.io/robin-dela/full/Kdryed/)
+
+[Pen #12](http://codepen.io/robin-dela/full/avQXjz/)
+
+[Pen #13](http://codepen.io/robin-dela/full/gaZwmV/)
+
+#14 - Pray for Paris
+
+[Pen #15](http://codepen.io/robin-dela/full/GpzJXr/)
