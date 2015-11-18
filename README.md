@@ -26,6 +26,12 @@
 
 [Pen #13](http://codepen.io/robin-dela/full/gaZwmV/)
 
-#14 - Pray for Paris
+Day #14 - Pray for Paris
 
 [Pen #15](http://codepen.io/robin-dela/full/GpzJXr/)
+
+[Pen #16](http://codepen.io/robin-dela/full/qOgWbv/)
+
+[Pen #17](http://codepen.io/robin-dela/full/bVzMKN/)
+
+[Pen #17](http://codepen.io/robin-dela/full/zvbYbr/)
